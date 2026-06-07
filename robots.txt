@@ -1,5 +1,5 @@
 # Robots.txt for FoxTrading Singapore
-# https://www.ftsgp.com
+# https://ftsgp.com
 
 User-agent: *
 Allow: /
@@ -12,7 +12,7 @@ Allow: /assets/js/
 Crawl-delay: 1
 
 # Sitemap location
-Sitemap: https://www.ftsgp.com/sitemap.xml
+Sitemap: https://ftsgp.com/sitemap.xml
 
 # Specific rules for major search engines
 User-agent: Googlebot

@@ -1,17 +1,4 @@
 {
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "has": [
-        {
-          "type": "host",
-          "value": "ftsgp.com"
-        }
-      ],
-      "destination": "https://www.ftsgp.com/$1",
-      "permanent": true
-    }
-  ],
   "rewrites": [
     {
       "source": "/es-MX",
