@@ -1,0 +1,230 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de nosotros",
+    "services": "Servicios",
+    "project": "Proyectos",
+    "team": "Equipo principal",
+    "faq": "Preguntas frecuentes",
+    "bookCall": "Contáctanos"
+  },
+  "hero": {
+    "title": "Llevamos sabores premium de México al mundo",
+    "subtitle": "Descubre nuestra selección curada de productos frescos, mezclas congeladas, alimentos especiales, proteínas y licores de alta calidad. Suministrados de manera responsable y entregados a nivel global con una calidad inigualable.",
+    "toolsPartners": "Herramientas y socios que usamos"
+  },
+  "about": {
+    "label": "ACERCA DE NOSOTROS",
+    "title": "En Foxtrading, nos especializamos en conectar los mejores productos agrícolas de México con los mercados internacionales. Desde productos frescos hasta alimentos especiales y aceites premium, garantizamos calidad, sostenibilidad y confiabilidad en cada paso de la cadena de suministro.",
+    "description": "FoxTrading Singapore es un importador y distribuidor de alimentos mexicanos con sede en Singapur, sirviendo a 6 países en Asia-Pacífico. Desde 2016, hemos suministrado más de 200 variedades de productos premium a restaurantes, hoteles y minoristas — gestionando el abastecimiento, la logística de cadena de frío y la entrega para que tu negocio reciba solo los mejores productos mexicanos, a tiempo y con una consistencia inigualable.",
+    "established": "Años de operación",
+    "workAcross": "Países atendidos",
+    "over": "Productos entregados",
+    "years": "Años",
+    "countries": "Países",
+    "projects": "Proyectos"
+  },
+  "services": {
+    "label": "PRODUCTOS",
+    "nutsSeeds": {
+      "title": "1. Nueces y semillas premium",
+      "description": "Nueces de alta calidad, incluyendo pecanas, macadamias y otras variedades premium. Obtenidas de productores certificados y procesadas para mantener su frescura y valor nutricional.",
+      "fact": "Las nueces premium, como las macadamias, contienen más del 75% de grasas monoinsaturadas saludables y están entre los frutos secos más valiosos en el comercio internacional.",
+      "stat1": "15+",
+      "stat1Label": "Países de origen",
+      "stat2": "50+",
+      "stat2Label": "Variedades de nueces premium"
+    },
+    "citrusFruits": {
+      "title": "2. Cítricos frescos y frutas tropicales",
+      "description": "Cítricos premium como limones, limas y naranjas, además de frutas tropicales exóticas como mango, papaya y pitahaya. Cuidadosamente seleccionados y empacados para una frescura óptima.",
+      "fact": "México es el mayor productor de aguacate del mundo, representando más del 30% de la producción global, ¡y produce cítricos premium durante todo el año!",
+      "stat1": "12+",
+      "stat1Label": "Variedades de frutas tropicales disponibles"
+    },
+    "berriesVegetables": {
+      "title": "3. Bayas y vegetales premium",
+      "description": "Bayas frescas, incluyendo fresas, frambuesas y arándanos, además de vegetales premium como tomates y guayabas. Cosechados en su punto de madurez óptimo para un máximo sabor y nutrición.",
+      "fact": "Las bayas y vegetales mexicanos se benefician de condiciones de crecimiento ideales y técnicas agrícolas avanzadas, ¡asegurando su disponibilidad durante todo el año!",
+      "stat1": "8+",
+      "stat1Label": "Variedades de bayas y vegetales"
+    },
+    "avocadoSpecialty": {
+      "title": "4. Aguacate y productos especiales",
+      "description": "Aguacates Hass premium y productos especiales de México. Conocidos por su calidad superior, rico sabor y beneficios nutricionales. Manejados cuidadosamente para asegurar una madurez perfecta.",
+      "fact": "El aguacate Hass mexicano está disponible todo el año y contiene más de 20 vitaminas y minerales, ¡convirtiéndolo en un superalimento en los mercados internacionales!",
+      "stat1": "95%",
+      "stat1Label": "De las importaciones de aguacate de EE. UU. son de México"
+    }
+  },
+  "projects": {
+    "label": "NUESTROS PRODUCTOS",
+    "title": "Calidad de origen, comercio global. Nuestro portafolio refleja un compromiso con la excelencia en el comercio internacional de alimentos.",
+    "project1": {
+      "title": "Alimentos frescos",
+      "description": "Productos frescos premium, incluyendo frutas, vegetales y hierbas. Obtenidos directamente de productores de confianza y entregados con una frescura óptima mantenida a través de la logística de cadena de frío.",
+      "totalArea": "Países de origen",
+      "totalRoom": "Variedades de producto",
+      "dateOfBuild": "Disponibilidad de temporada",
+      "area": "Más de 15 países",
+      "rooms": "Más de 200 variedades",
+      "date": "Todo el año"
+    },
+    "project2": {
+      "title": "Congelados y mezclas",
+      "description": "Frutas tropicales exóticas como piña, coco, maracuyá, plátano y más. Seleccionadas a mano en su punto de madurez óptimo y enviadas con cuidado para mantener una calidad y sabor excepcionales.",
+      "totalArea": "Países de origen",
+      "totalRoom": "Variedades de producto",
+      "dateOfBuild": "Disponibilidad de temporada",
+      "area": "México",
+      "rooms": "Más de 30 productos especiales",
+      "date": "Todo el año"
+    },
+    "project3": {
+      "title": "Alimentos especiales",
+      "description": "Una selección curada de productos con valor agregado y preparados, diseñados para mejorar el sabor, la nutrición y la conveniencia. Desde especialidades tradicionales mexicanas hasta innovaciones orgánicas y ecológicas, estos alimentos ofrecen experiencias de sabor únicas y soluciones prácticas a los mercados globales.",
+      "totalArea": "Países de origen",
+      "totalRoom": "Variedades de producto",
+      "dateOfBuild": "Disponibilidad de temporada",
+      "area": "México",
+      "rooms": "Más de 30 alimentos procesados",
+      "date": "Todo el año"
+    },
+    "project4": {
+      "title": "Especialidades de carne y pescado",
+      "description": "Proteínas de origen animal premium, obtenidas de productores de confianza. Nuestra selección incluye carne de res, pollo, cerdo, cordero, pescado y mariscos, entregados con estrictos estándares de calidad para garantizar frescura, nutrición y preparación para el mercado global.",
+      "totalArea": "Países de origen",
+      "totalRoom": "Variedades de producto",
+      "dateOfBuild": "Disponibilidad de temporada",
+      "area": "México + mercados internacionales seleccionados",
+      "rooms": "Más de 20 productos de ganado y mariscos",
+      "date": "Todo el año"
+    },
+    "project5": {
+      "title": "Licores y bebidas premium",
+      "description": "Bebidas alcohólicas premium, incluyendo licores tradicionales mexicanos, cervezas artesanales, vinos y licores internacionales. Cuidadosamente seleccionados de destilerías y cervecerías de renombre mundial.",
+      "totalArea": "Países de origen",
+      "totalRoom": "Variedades de producto",
+      "dateOfBuild": "Disponibilidad de temporada",
+      "area": "México",
+      "rooms": "Más de 30 productos",
+      "date": "Todo el año"
+    },
+    "project6": {
+      "title": "Alimentos para ganado",
+      "description": "Productos cárnicos premium, lácteos e ingredientes de origen animal. Obtenidos de proveedores certificados con los más altos estándares de bienestar animal y calidad.",
+      "area": "Más de 12 países",
+      "rooms": "Más de 50 productos",
+      "date": "Todo el año"
+    },
+    "project7": {
+      "title": "Bebidas alcohólicas",
+      "description": "Bebidas alcohólicas premium, incluyendo licores, licores y bebidas especiales. Cuidadosamente seleccionados de destilerías y productores de renombre mundial.",
+      "area": "Más de 15 países",
+      "rooms": "Más de 75 marcas",
+      "date": "Todo el año"
+    },
+    "avocado": "NUEZ",
+    "pecan": "PACANA",
+    "mango": "MANGO",
+    "berries": "AGUACATE"
+  },
+  "testimonials": {
+    "label": "Testimonios",
+    "title": "Lo que dicen nuestros socios sobre trabajar con nosotros",
+    "testimonial1": {
+      "text": "FoxTrading ha sido un proveedor confiable de aguacates y bayas mexicanas premium para nuestro restaurante. Su logística de cadena de frío asegura que cada envío llegue fresco, y su equipo siempre responde a nuestras necesidades.",
+      "author": "Anna de la Vega, Propietaria de Tiga Cafe"
+    },
+    "testimonial2": {
+      "text": "Quedamos impresionados por la calidad y consistencia de sus productos de frutas congeladas. FoxTrading entiende lo que demanda la industria de F&B de Singapur y cumple sin compromisos, siempre.",
+      "author": "Marcus T, Gerente de Compras en Mono Studio"
+    },
+    "testimonial3": {
+      "text": "Trabajar con FoxTrading fue impecable. Gestionaron toda la documentación de importación y coordinación aduanera, facilitándonos el abastecimiento de ingredientes mexicanos auténticos. La selección de tequila y mezcal es excepcional.",
+      "author": "Emily R, Directora en Luma House"
+    }
+  },
+  "team": {
+    "label": "Equipo principal",
+    "title": "Somos el socio comercial principal que conecta los mejores productos agrícolas, marinos y artesanales de México directamente con el exigente mercado de Singapur.",
+    "member1": {
+      "name": "Productos frescos y frutas premium",
+      "position": "Productos de alta calidad",
+      "description": "Suministramos productos de alta calidad como aguacates Hass, frutas tropicales como mangos y guayabas, y vegetales premium. Cada artículo es seleccionado y empacado meticulosamente para asegurar que llegue con una frescura y sabor óptimos."
+    },
+    "member2": {
+      "name": "Mariscos frescos y congelados",
+      "position": "Variedades premium",
+      "description": "Nuestra selección de mariscos incluye variedades premium como atún y tilapia, obtenidas de pesquerías mexicanas certificadas. Utilizamos técnicas de congelación y empaque de vanguardia para preservar el sabor y el valor nutricional, asegurando que cumplan con los altos estándares del mercado de Singapur."
+    },
+    "member3": {
+      "name": "Carnes especiales",
+      "position": "Suministradas y acreditadas",
+      "description": "Nuestros productos cárnicos, incluyendo cerdo y pollo de alta calidad, son obtenidos de establecimientos mexicanos acreditados que cumplen con estrictos protocolos de calidad y seguridad."
+    },
+    "member4": {
+      "name": "Productos artesanales y procesados",
+      "position": "Alimentos altamente valorados",
+      "description": "También exportamos una gama de productos mexicanos con valor agregado, desde auténtica miel de agave y guacamole gourmet hasta salsas tradicionales y picantes, que aportan una experiencia de sabor única a cualquier mesa."
+    }
+  },
+  "faq": {
+    "label": "PREGUNTAS FRECUENTES",
+    "q1": {
+      "question": "¿Qué tipos de productos mexicanos exportan a Singapur?",
+      "answer": "Exportamos una amplia gama que incluye productos frescos (aguacates, mangos, bayas), frutas y vegetales congelados, carnes y mariscos premium, alimentos especiales como guacamole y salsas, y licores mexicanos auténticos, incluyendo tequila y mezcal. Todos los productos cumplen con los estrictos estándares de importación de Singapur y son obtenidos de proveedores mexicanos certificados."
+    },
+    "q2": {
+      "question": "¿Cuáles son las cantidades mínimas de pedido y los tiempos de entrega?",
+      "answer": "Las cantidades mínimas de pedido varían según la categoría de producto: típicamente un palé para productos congelados y negociable para productos frescos. La entrega estándar de México a Singapur es de 3 a 4 semanas por transporte marítimo, con opciones de transporte aéreo disponibles para pedidos urgentes. Consolidamos envíos para optimizar los costos para compradores más pequeños."
+    },
+    "q3": {
+      "question": "¿Cómo garantizan la calidad del producto durante el envío a larga distancia?",
+      "answer": "Utilizamos logística de cadena de frío de vanguardia con contenedores a temperatura controlada monitoreados 24/7. Los productos frescos se cosechan en su punto de madurez óptimo, se enfrían inmediatamente y se empacan utilizando tecnología de atmósfera modificada. Nuestro equipo de control de calidad inspecciona los productos en origen y destino, asegurando que lleguen en perfectas condiciones."
+    },
+    "q4": {
+      "question": "¿Manejan la documentación de importación y el despacho de aduanas?",
+      "answer": "Sí, brindamos un soporte integral que incluye certificados fitosanitarios, certificados de origen, certificados de salud y toda la documentación requerida por la AVA/SFA de Singapur. Nuestro equipo tiene experiencia con las regulaciones de importación de Singapur y puede ayudar con el despacho de aduanas, aunque los compradores suelen manejar el despacho final a través de sus agentes designados."
+    }
+  },
+  "footer": {
+    "changelog": "Política de privacidad",
+    "styleGuide": "Guía de Exportación",
+    "licence": "Licencia",
+    "rights": "Todos los derechos reservados.",
+    "contact": "Contacto",
+    "contactInfo": "Información de Contacto",
+    "location": "Ubicación",
+    "email": "Correo electrónico",
+    "phone": "Teléfono",
+    "address1": "16 Raffles Hong Leong Building,",
+    "address2": "Singapur"
+  },
+  "form": {
+    "yourName": "Tu nombre",
+    "enterName": "Ingresa tu nombre",
+    "emailAddress": "Dirección de correo electrónico",
+    "enterEmail": "Ingresa tu correo electrónico",
+    "service": "Servicio",
+    "selectService": "Seleccionar servicio",
+    "aboutProject": "Acerca del proyecto",
+    "writeMessage": "Escribe algo...",
+    "submit": "Enviar",
+    "termsText": "Al procesar, aceptas nuestros",
+    "termsLink": "Términos y condiciones",
+    "success": "¡Éxito!",
+    "successMessage": "¡Gracias! Hemos recibido tu información. Alguien de nuestro equipo se pondrá en contacto contigo en breve.",
+    "error": "¡Ups! Algo salió mal al enviar el formulario."
+  },
+  "founder": {
+    "name": "Eric Winston",
+    "position": "Agente"
+  },
+ "meta": {
+    "languageName": "Español (México)",
+    "languageCode": "es-MX",
+    "flag": "🇲🇽",
+    "direction": "ltr"
+  }
+}

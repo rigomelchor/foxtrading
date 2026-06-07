@@ -1,0 +1,231 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "project": "Project",
+    "team": "Core team",
+    "testimonial": "Testimonials",
+    "faq": "FAQs",
+    "bookCall": "Book a call"
+  },
+  "hero": {
+    "title": "Bringing premium flavors from Mexico",
+    "subtitle": "Discover our curated selection of fresh produce, frozen blends, specialty foods, proteins, and fine spirits—sourced responsibly and delivered globally with unmatched quality.",
+    "toolsPartners": "Tools & render which we use"
+  },
+  "about": {
+    "label": "ABOUT US",
+    "title": "At Foxtrading, we specialize in connecting Mexico’s best agricultural products with international markets. From fresh produce to specialty foods and premium oils, we ensure quality, sustainability, and reliability at every step of the supply chain.",
+    "description": "FoxTrading Singapore is a Mexican food importer and distributor based in Singapore, serving 6 countries across Asia-Pacific. Since 2016, we have supplied over 200 varieties of premium products to restaurants, hotels, and retailers — managing sourcing, cold-chain logistics, and delivery so your business receives only the finest Mexican products, on time, and with unmatched consistency.",
+    "established": "Years in operation",
+    "workAcross": "Countries served",
+    "over": "Products delivered",
+    "years": "Years",
+    "countries": "Countries",
+    "projects": "Projects"
+  },
+  "services": {
+    "label": "PRODUCTS",
+    "nutsSeeds": {
+      "title": "1. Premium Nuts & Seeds",
+      "description": "High-quality nuts including pecans, macadamias, and other premium varieties. Sourced from certified growers and processed to maintain freshness and nutritional value.",
+      "fact": "Premium nuts like macadamias contain over 75% healthy monounsaturated fats and are among the most valuable tree nuts in international trade.",
+      "stat1": "15+",
+      "stat1Label": "Countries of origin",
+      "stat2": "50+",
+      "stat2Label": "Premium nut varieties"
+    },
+    "citrusFruits": {
+      "title": "2. Fresh Citrus & Tropical Fruits",
+      "description": "Premium citrus fruits including lemons, limes, and oranges, plus exotic tropical fruits like mango, papaya, and dragon fruit. Carefully selected and packed for optimal freshness.",
+      "fact": "Mexico is the world's largest avocado producer, accounting for over 30% of global production, and produces premium citrus fruits year-round!",
+      "stat1": "12+",
+      "stat1Label": "Tropical fruit varieties available"
+    },
+    "berriesVegetables": {
+      "title": "3. Premium Berries & Vegetables",
+      "description": "Fresh berries including strawberries, raspberries, and blueberries, plus premium vegetables like tomatoes and guava. Harvested at peak ripeness for maximum flavor and nutrition.",
+      "fact": "Mexican berries and vegetables benefit from ideal growing conditions and advanced agricultural techniques, ensuring year-round availability!",
+      "stat1": "8+",
+      "stat1Label": "Berry and vegetable varieties"
+    },
+    "avocadoSpecialty": {
+      "title": "4. Avocado & Specialty Products",
+      "description": "Premium Hass avocados and specialty products from Mexico. Known for their superior quality, rich taste, and nutritional benefits. Carefully handled to ensure perfect ripeness.",
+      "fact": "Mexican Hass avocados are available year-round and contain over 20 vitamins and minerals, making them a superfood in international markets!",
+      "stat1": "95%",
+      "stat1Label": "Of US avocado imports from Mexico"
+    }
+  },
+  "projects": {
+    "label": "OUR PRODUCTS",
+    "title": "Quality sourced, globally traded. Our portfolio reflects a commitment to excellence in international food trading.",
+    "project1": {
+      "title": "Fresh Foods",
+      "description": "Premium fresh produce including fruits, vegetables, and herbs. Sourced directly from trusted growers and delivered with optimal freshness maintained through cold-chain logistics.",
+      "totalArea": "Origin countries",
+      "totalRoom": "Product varieties",
+      "dateOfBuild": "Season availability",
+      "area": "15+ countries",
+      "rooms": "200+ varieties",
+      "date": "Year-round"
+    },
+    "project2": {
+      "title": "Frozen & Blends",
+      "description": "Exotic tropical fruits including pineapple, coconut, passion fruit, banana, and more. Hand-selected at peak ripeness and shipped with care to maintain exceptional quality and flavor.",
+      "totalArea": "Origin countries",
+      "totalRoom": "Product varieties",
+      "dateOfBuild": "Season availability",
+      "area": "Mexico",
+      "rooms": "30+ products",
+      "date": "Year-round"
+    },
+    "project3": {
+      "title": "Specialty Foods",
+      "description": "A curated selection of value-added and prepared products crafted to enhance flavor, nutrition, and convenience. From traditional Mexican specialties to organic and eco-friendly innovations, these foods bring unique taste experiences and practical solutions to global markets.",
+      "totalArea": "Origin countries",
+      "totalRoom": "Product varieties",
+      "dateOfBuild": "Season availability",
+      "area": "Mexico",
+      "rooms": "30+ products",
+      "date": "Year-round"
+    },
+    "project4": {
+      "title": "Meat & Fish Specialties",
+      "description": "Premium animal-based proteins sourced from trusted producers. Our selection includes beef, poultry, pork, lamb, fish, and seafood—delivered with strict quality standards to ensure freshness, nutrition, and global market readiness.",
+      "totalArea": "Origin countries",
+      "totalRoom": "Product varieties",
+      "dateOfBuild": "Season availability",
+      "area": "Mexico",
+      "rooms": "20+  products",
+      "date": "Year-round"
+    },
+    "project5": {
+      "title": "Premium Spirits & Beverages",
+      "description": "Premium alcoholic beverages including traditional Mexican spirits, craft beers, wines, and international spirits. Carefully selected from renowned distilleries and breweries worldwide.",
+      "totalArea": "Origin countries",
+      "totalRoom": "Product varieties",
+      "dateOfBuild": "Season availability",
+      "area": "Mexico",
+      "rooms": "30+ products",
+      "date": "Year-round"
+    },
+    "project6": {
+      "title": "Livestock Foods",
+      "description": "Premium meat products, dairy, and animal-derived ingredients. Sourced from certified suppliers with highest animal welfare and quality standards.",
+      "area": "12+ countries",
+      "rooms": "50+ products",
+      "date": "Year-round"
+    },
+    "project7": {
+      "title": "Spirit Drinks",
+      "description": "Premium alcoholic beverages including spirits, liqueurs, and specialty drinks. Carefully selected from renowned distilleries and producers worldwide.",
+      "area": "15+ countries",
+      "rooms": "75+ brands",
+      "date": "Year-round"
+    },
+    "avocado": "AVOCADO",
+    "pecan": "PECAN NUTS",
+    "mango": "MANGO",
+    "berries": "BERRIES"
+  },
+  "testimonials": {
+    "label": "Testimonials",
+    "title": "What our partners say about working with us",
+    "testimonial1": {
+      "text": "FoxTrading has been a reliable supplier of premium Mexican avocados and berries for our restaurant. Their cold-chain logistics ensure every shipment arrives fresh, and their team is always responsive to our needs.",
+      "author": "Anna de la Vega, Owner of Tiga Cafe"
+    },
+    "testimonial2": {
+      "text": "We were impressed by the quality and consistency of their frozen fruit products. FoxTrading understands what Singapore's F&B industry demands and delivers without compromise, every single time.",
+      "author": "Marcus T, Procurement Manager at Mono Studio"
+    },
+    "testimonial3": {
+      "text": "Working with FoxTrading was seamless. They handled all the import documentation and customs coordination, making it easy for us to source authentic Mexican ingredients. The tequila and mezcal selection is outstanding.",
+      "author": "Emily R, Director at Luma House"
+    }
+  },
+  "team": {
+    "label": "Core teams",
+    "title": "We are the premier trading partner connecting Mexico's finest agricultural, marine, and artisanal products directly to the discerning Singaporean market.",
+    "member1": {
+      "name": "Premium Produce & Fruits",
+      "position": " High-quality produce",
+      "description": "We source high-quality produce like Hass avocados, tropical fruits like mangos and guavas, and premium vegetables. Each item is meticulously selected and packed to ensure it arrives with optimal freshness and flavor."
+    },
+    "member2": {
+      "name": "Fresh & Frozen Seafood",
+      "position": "Premium varieties ",
+      "description": "Our seafood selection includes premium varieties such as tuna and tilapia, sourced from certified Mexican fisheries. We utilize state-of-the-art freezing and packaging techniques to lock in flavor and nutritional value, ensuring they meet the high standards of the Singaporean market."
+    },
+    "member3": {
+      "name": "Specialty Meats",
+      "position": "Sourced & Accredited ",
+      "description": "Our meat products, including high-quality pork and chicken, are sourced from accredited Mexican establishments that adhere to strict quality and safety protocols."
+    },
+    "member4": {
+      "name": "Artisanal & Processed Goods",
+      "position": "Highly valued foods",
+      "description": "We also export a range of value-added Mexican goods, from authentic agave honey and gourmet guacamole to traditional salsas and hot sauces, which bring a unique taste experience to any table."
+    }
+  },
+  "faq": {
+    "label": "FAQS",
+    "q1": {
+      "question": "What types of Mexican products do you export to Singapore?",
+      "answer": "We export a comprehensive range including fresh produce (avocados, mangoes, berries), frozen fruits and vegetables, premium meats and seafood, specialty foods like guacamole and salsas, and authentic Mexican spirits including tequila and mezcal. All products meet Singapore's strict import standards and are sourced from certified Mexican suppliers."
+    },
+    "q2": {
+      "question": "What are your minimum order quantities and delivery times?",
+      "answer": "Minimum order quantities vary by product category - typically one pallet for frozen goods and negotiable for fresh produce. Standard delivery from Mexico to Singapore is 3-4 weeks by sea freight, with air freight options available for urgent orders. We consolidate shipments to optimize costs for smaller buyers."
+    },
+    "q3": {
+      "question": "How do you ensure product quality during long-distance shipping?",
+      "answer": "We use state-of-the-art cold chain logistics with temperature-controlled containers monitored 24/7. Fresh produce is harvested at optimal ripeness, immediately cooled, and packed using modified atmosphere technology. Our quality control team inspects products at origin and destination, ensuring they arrive in perfect condition."
+    },
+    "q4": {
+      "question": "Do you handle import documentation and customs clearance?",
+      "answer": "Yes, we provide comprehensive support including phytosanitary certificates, certificates of origin, health certificates, and all required Singapore AVA/SFA documentation. Our team is experienced with Singapore's import regulations and can assist with customs clearance, though buyers typically handle final clearance through their appointed agents."
+    }
+  },
+  "footer": {
+    "changelog": "Privacy Policy",
+    "styleGuide": "Exporting Guidelines",
+    "licence": "Licence",
+    "rights": "All rights reserved.",
+    "contact": "Contact",
+    "contactInfo": "Contact Information",
+    "location": "Location",
+    "email": "Email",
+    "phone": "Phone",
+    "address1": "16 Raffles Hong Leong Building,",
+    "address2": "Singapore"
+  },
+  "form": {
+    "yourName": "Your name",
+    "enterName": "Enter Your Name",
+    "emailAddress": "Email address",
+    "enterEmail": "Enter Your Email",
+    "service": "Service",
+    "selectService": "Select service",
+    "aboutProject": "About the project",
+    "writeMessage": "Write something...",
+    "submit": "Submit",
+    "termsText": "By processing, you agree to our",
+    "termsLink": "Terms and Conditions",
+    "success": "Successful!",
+    "successMessage": "Thank you! We've received your information. Someone from our team will reach out shortly.",
+    "error": "Oops! Something went wrong whilst submitting the form."
+  },
+  "founder": {
+    "name": "Eric Winston",
+    "position": "Agent"
+  },
+ "meta": {
+    "languageName": "English",
+    "languageCode": "en-SG",
+    "flag": "🇸🇬",
+    "direction": "ltr"
+  }
+}
