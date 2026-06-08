@@ -23,7 +23,7 @@
     <meta property="twitter:image" content="https://ftsgp.com/assets/images/food/Fresh-Foods.webp">
     
     <!-- Additional SEO Meta Tags -->
-    <meta name="last-modified" content="2026-06-07">
+    <meta name="last-modified" content="2026-06-08">
     <meta name="author" content="FoxTrading Singapore Pte Ltd">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="googlebot" content="index, follow">
@@ -76,12 +76,56 @@
     {
       "@context": "https://schema.org",
       "@type": "WebSite",
+      "@id": "https://ftsgp.com/#website",
       "name": "FoxTrading Singapore",
       "url": "https://ftsgp.com",
       "description": "FoxTrading Singapore is a Mexican food importer and distributor based in Singapore, supplying premium fresh produce, frozen foods, meats, seafood, and spirits to restaurants, hotels, and retailers across Asia-Pacific.",
+      "publisher": {"@id": "https://ftsgp.com/#organization"},
       "inLanguage": ["en-SG", "es-MX"],
       "datePublished": "2024-01-26",
-      "dateModified": "2026-06-07"
+      "dateModified": "2026-06-08"
+    }
+    </script>
+
+    <!-- WebPage Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "https://ftsgp.com/#webpage",
+      "url": "https://ftsgp.com/",
+      "name": "FoxTrading Singapore - Premium Mexican Food Importer & Distributor",
+      "description": "Leading Mexican food importer in Singapore. Premium avocados, berries, frozen foods, seafood & spirits for restaurants, hotels & retailers across Asia-Pacific.",
+      "isPartOf": {"@id": "https://ftsgp.com/#website"},
+      "about": {"@id": "https://ftsgp.com/#organization"},
+      "datePublished": "2024-01-26",
+      "dateModified": "2026-06-08",
+      "lastReviewed": "2026-06-08",
+      "inLanguage": "en-SG",
+      "breadcrumb": {"@id": "https://ftsgp.com/#breadcrumb"}
+    }
+    </script>
+
+    <!-- BreadcrumbList Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "@id": "https://ftsgp.com/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ftsgp.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mexican Food Products",
+          "item": "https://ftsgp.com/#project-section"
+        }
+      ]
     }
     </script>
 
@@ -90,12 +134,22 @@
     {
       "@context": "https://schema.org",
       "@type": ["Organization", "LocalBusiness"],
+      "@id": "https://ftsgp.com/#organization",
       "name": "FoxTrading Singapore",
       "alternateName": "FoxTrading Singapore Pte Ltd",
       "url": "https://ftsgp.com",
-      "logo": "https://ftsgp.com/assets/images/foxtradingsingapore-black.webp",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://ftsgp.com/assets/images/foxtradingsingapore-black.webp",
+        "width": 206,
+        "height": 50
+      },
+      "image": "https://ftsgp.com/assets/images/food/Fresh-Foods.webp",
       "description": "FoxTrading Singapore is a Mexican food importer and distributor based in Singapore. We supply premium avocados, mangoes, berries, frozen foods, meats, seafood, tequila, and mezcal to restaurants, hotels, and retailers across Asia-Pacific. Located at 16 Raffles Hong Leong Building, Singapore.",
       "foundingDate": "2016",
+      "priceRange": "$$",
+      "currenciesAccepted": "SGD, USD",
+      "paymentAccepted": "Bank Transfer, Letter of Credit",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "16 Raffles Hong Leong Building",
@@ -116,7 +170,6 @@
         "telephone": "+1-720-878-8654",
         "email": "info@foxtradingsingapore.com",
         "contactType": "sales",
-        "areaServed": ["SG", "MY", "TH", "ID", "PH", "VN"],
         "availableLanguage": ["English", "Spanish"]
       },
       "knowsAbout": [
@@ -142,21 +195,23 @@
       ]
     }
     </script>
-    
+
     <!-- Product/Service Schema -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Service",
+      "@id": "https://ftsgp.com/#service",
       "serviceType": "Food Import and Distribution",
-      "provider": {
-        "@type": "Organization",
-        "name": "FoxTrading Singapore"
-      },
-      "areaServed": {
-        "@type": "Place",
-        "name": "Singapore and Asia-Pacific"
-      },
+      "provider": {"@id": "https://ftsgp.com/#organization"},
+      "areaServed": [
+        {"@type": "Country", "name": "Singapore"},
+        {"@type": "Country", "name": "Malaysia"},
+        {"@type": "Country", "name": "Thailand"},
+        {"@type": "Country", "name": "Indonesia"},
+        {"@type": "Country", "name": "Philippines"},
+        {"@type": "Country", "name": "Vietnam"}
+      ],
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
         "name": "Mexican Food Products",
@@ -164,30 +219,88 @@
           {
             "@type": "Product",
             "name": "Fresh Produce",
-            "description": "Avocados, mangoes, berries, citrus, papaya, dragon fruit"
+            "description": "Premium avocados, mangoes, berries, citrus, papaya, and dragon fruit sourced from certified Mexican growers. Over 200 varieties available year-round.",
+            "image": "https://ftsgp.com/assets/images/food/Fresh-Foods.webp",
+            "category": "Fresh Fruits & Vegetables"
           },
           {
             "@type": "Product",
-            "name": "Frozen Foods",
-            "description": "IQF fruits, frozen blends, fruit pulps, frozen vegetables"
+            "name": "Frozen Foods & Blends",
+            "description": "IQF fruits, frozen blends, fruit pulps, and frozen vegetables. Flash-frozen at peak ripeness for maximum flavor and nutrition.",
+            "image": "https://ftsgp.com/assets/images/food/Frozen-Foods.webp",
+            "category": "Frozen Foods"
           },
           {
             "@type": "Product",
             "name": "Specialty Foods",
-            "description": "Guacamole, salsas, tortillas, chips, traditional Mexican products"
+            "description": "Guacamole, salsas, avocado oil, agave syrup, hot sauce, and traditional Mexican specialty products.",
+            "image": "https://ftsgp.com/assets/images/food/Procesed.webp",
+            "category": "Processed & Specialty Foods"
           },
           {
             "@type": "Product",
             "name": "Meat & Seafood",
-            "description": "Premium beef, poultry, pork, fish, shrimp from Mexico"
+            "description": "Premium beef, poultry, pork, lamb, fish, and seafood from certified Mexican establishments with strict quality protocols.",
+            "image": "https://ftsgp.com/assets/images/food/Livestock.webp",
+            "category": "Meat & Seafood"
           },
           {
             "@type": "Product",
             "name": "Spirits & Beverages",
-            "description": "Tequila, mezcal, craft beer, Mexican wines"
+            "description": "Authentic tequila, mezcal, craft beer, Mexican wines, whisky, and vodka from renowned distilleries.",
+            "image": "https://ftsgp.com/assets/images/food/Spirits.webp",
+            "category": "Alcoholic Beverages"
           }
         ]
       }
+    }
+    </script>
+
+    <!-- ItemList Schema for Product Categories -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "name": "FoxTrading Singapore Product Categories",
+      "description": "Premium Mexican food products available for import to Singapore and Asia-Pacific",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Fresh Foods",
+          "url": "https://ftsgp.com/#project-section",
+          "image": "https://ftsgp.com/assets/images/food/Fresh-Foods.webp"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Frozen & Blends",
+          "url": "https://ftsgp.com/#project-section",
+          "image": "https://ftsgp.com/assets/images/food/Frozen-Foods.webp"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Specialty Foods",
+          "url": "https://ftsgp.com/#project-section",
+          "image": "https://ftsgp.com/assets/images/food/Procesed.webp"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Meat & Fish Specialties",
+          "url": "https://ftsgp.com/#project-section",
+          "image": "https://ftsgp.com/assets/images/food/Livestock.webp"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Premium Spirits & Beverages",
+          "url": "https://ftsgp.com/#project-section",
+          "image": "https://ftsgp.com/assets/images/food/Spirits.webp"
+        }
+      ]
     }
     </script>
     
@@ -385,7 +498,7 @@
                                 <picture aria-hidden="true">
                                     <source media="(max-width: 767px)" srcset="assets/images/food/hero-1-mobile.webp" aria-hidden="true">
                                     <source media="(max-width: 991px)" srcset="assets/images/food/hero-1-tablet.webp" aria-hidden="true">
-                                    <img src="assets/images/food/hero-1.webp" alt="International food trading and premium agricultural products" loading="lazy" class="hero-image" aria-hidden="true">
+                                    <img src="assets/images/food/hero-1.webp" alt="International food trading and premium agricultural products" class="hero-image" aria-hidden="true">
                                 </picture>
                             </div><div aria-live="off" aria-atomic="true" class="w-slider-aria-label" data-wf-ignore="">Slide 2 of 3.</div></div>
                         <div class="left-arrow-hero w-slider-arrow-left" role="button" tabindex="0" aria-controls="w-slider-mask-0" aria-label="previous slide">
